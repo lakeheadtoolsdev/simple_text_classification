@@ -36,7 +36,8 @@ Following are deliverables for your submission:
 3. OPTIONAL: You can play with the code and create your own features (based on NLP, transformers, or rule-based logic) to improve app usability.
 
 The UI should look like this:
-![image](https://user-images.githubusercontent.com/107148312/174660236-5af5166c-c270-484e-bf2e-b4070ce24aff.png)
+![image](https://user-images.githubusercontent.com/107148312/174667958-b6d90276-4c2e-4fc2-b831-c6ca7136eb95.png)
+
 
 ## License
 
