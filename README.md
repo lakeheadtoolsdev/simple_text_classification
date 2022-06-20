@@ -23,7 +23,7 @@ The algorithm also gives word redundancy and highlights repeated words.
 3. Create a UI based on the model and code.
 4. Host this project as a webapp on a free hosted service.
 
-### What is the expected from?
+### What is expected from you?
 
 **For assement submission please fill this** [google form](https://forms.gle/WFGBUw1erBJN3Szj8)
 
