@@ -2,7 +2,7 @@
 
 This repository is designed for full-stack assessment.
 
-img src = "https://raw.githubusercontent.com/dongyun-yang/simple_text_classification/master/images/simple_text_classification.png"
+img src = "blob:https://whimsical.com/8be42a43-59a5-4999-a128-492b24faa31c"
 
 ## Description
 
