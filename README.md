@@ -29,6 +29,8 @@ The algorithm also gives word redundancy and highlights repeated words.
 
 **IMPORTANT**: Please keep in mind that all open-source and free services should be used to host this application.
 
+Following are deliverables for your submission:
+
 1. The URL of the webapp that you hosted.
 2. A detailed description of your implementation.(What deployment services did you employ? Where did you obtain the domain? and related information)
 3. OPTIONAL: You can play with the code and create your own features (based on NLP, transformers, or rule-based logic) to improve app usability.
